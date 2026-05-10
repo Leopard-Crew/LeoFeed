@@ -22,3 +22,9 @@ V1 excludes:
 Design doctrine:
 LeoFeed is not a Vienna rename. Vienna is historical reference material.
 LeoFeed is a Cupertino-2009 recomposition for Mac OS X 10.5.8 PowerPC.
+
+HTTPS/Web limitation:
+LeoFeed V1 is not a modern web browser. It must render feed-provided article
+content locally. Loading original HTTPS article pages through the embedded
+Leopard WebKit view is optional and may fail on modern sites due to Leopard-era
+TLS, certificate, and WebKit limitations.
