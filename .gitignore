@@ -87,3 +87,13 @@ xcuserdata/
 *.perspectivev3
 xcuserdata/
 *.xcuserstate
+
+# Xcode user state
+*.pbxuser
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
